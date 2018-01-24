@@ -1,0 +1,26 @@
+{
+  "name": "nodemongo",
+  "version": "1.0.0",
+  "description": "\"# node-mongo\"",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.34"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabeelsalam/node-mongo.git"
+  },
+  "author": "nabeel salam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nabeelsalam/node-mongo/issues"
+  },
+  "homepage": "https://github.com/nabeelsalam/node-mongo#readme"
+}
