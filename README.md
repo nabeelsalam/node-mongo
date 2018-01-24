@@ -1,1 +1,17 @@
-"# node-mongo" 
+# node-mongo
+
+Mongo sample using node.js
+
+
+### Installing
+ 
+ npm install and run server.js
+
+## Authors
+
+* **Nabeel Salam** 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
